@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Groovy: login, add Sauce Labs Backpack, verify cart (1 item, product name).</description>
+   <name>TC02_Add_To_Cart_Groovy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4be5e200-1d7c-4fba-8020-cee438b8fdbe</testCaseGuid>
+</TestCaseEntity>

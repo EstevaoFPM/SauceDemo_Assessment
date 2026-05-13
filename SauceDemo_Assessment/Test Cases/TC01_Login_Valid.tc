@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Recorded valid login and inventory checkpoint on Sauce Demo.</description>
+   <name>TC01_Login_Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e46d36bb-a804-4724-8dfa-dbb8d7b879b4</testCaseGuid>
+</TestCaseEntity>

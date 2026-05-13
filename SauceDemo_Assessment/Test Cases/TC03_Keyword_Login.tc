@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login via CommonActions keyword; verify inventory page (+ bonus add to cart on shelf).</description>
+   <name>TC03_Keyword_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f42a597a-d34c-45c2-9d26-e1bac991371b</testCaseGuid>
+</TestCaseEntity>
